@@ -13,4 +13,6 @@ Différentes quêtes seront proposées au fur et à mesure de la progression (le
 Le code est fait en GDScript. J'ai pu apprendre à utiliser différents types de scènes (les scènes "Control", 2D ou encore 3D).
 J'ai aussi pu comprendre comment relier des noeuds enfants/parents ainsi que différents types de noeuds enfants tel que Sprite2D, CollisionShape2D, utiliser des Boutons.
 Dans ce jeu, il y a aussi la mise en place de dialogues : dans ceux-ci, selon le choix du joueur, les propositions changent ainsi que l'histoire.
-Une nouvelle mécanique a aussi été développée : il s'agit du "Dash" et du "Reveal". Le premier permet au personnage de se déplacer plus rapidement pendant un cours moment, et le deuxième permet au joueur de trouver des indices sur le monde qui l'entoure, ainsi que de passer à travers certains obstacles.
+Une nouvelle mécanique a aussi été développée : il s'agit du "Dash" et du "Reveal".
+La première permet au personnage de se déplacer plus rapidement pendant un cours moment,
+et la seconde permet au joueur de trouver des indices sur le monde qui l'entoure, ainsi que de passer à travers certains obstacles.
