@@ -1,17 +1,17 @@
-# Détails sur le jeu !
+𝗗𝗲́𝘁𝗮𝗶𝗹𝘀 𝘀𝘂𝗿 𝗹𝗲 𝗷𝗲𝘂 !
 
 Le lien afin de pouvoir tester le jeu est celui-ci : https://drive.google.com/file/d/1OzLjKgmDiRSybA_JTRtFpiXolylSaU0Z/view?usp=sharing
 
 Les codes de ce jeu ainsi que l'art des personnages ont été fait par moi.
 Un exemple de code qui est dans le jeu est disponible dans ce même répertoire github.
 
-# BUT DU JEU :
+# 𝗕𝗨𝗧 𝗗𝗨 𝗝𝗘𝗨 :
 C'est un jeu d'aventure et de plateformes dont l'objectif est d'explorer et d'arriver à la fin des niveaux proposés.
 Différentes quêtes seront proposées au fur et à mesure de la progression (le jeu est toujours en cours de développement).
 
-# DESCRIPTION TECHNIQUES : 
+# 𝗗𝗘𝗦𝗖𝗥𝗜𝗣𝗧𝗜𝗢𝗡 𝗧𝗘𝗖𝗛𝗡𝗜𝗤𝗨𝗘𝗦 :
 
-# Programmation :
+- 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗮𝘁𝗶𝗼𝗻 :
 Le code est fait en GDScript. J'ai pu apprendre à utiliser différents types de scènes (les scènes "Control", 2D ou encore 3D).
 J'ai aussi pu comprendre comment relier des noeuds enfants/parents ainsi que différents types de noeuds enfants tel que Sprite2D, CollisionShape2D, utiliser des Boutons.
 Dans ce jeu, il y a aussi la mise en place de dialogues : dans ceux-ci, selon le choix du joueur, les propositions changent ainsi que l'histoire.
@@ -20,7 +20,7 @@ La première permet au personnage de se déplacer plus rapidement pendant un cou
 et la seconde permet au joueur de trouver des indices sur le monde qui l'entoure, ainsi que de passer à travers certains obstacles.
 
 
-# Art :
+- 𝗔𝗿𝘁 :
 Les designs ont été dessiné grâce au logiciel de dessin "Medibang Paint", et l'animation a été faite grâce à l'enchaînement de plusieurs frames par secondes.
 Toutes les textures ont un objectif ou un programme lié (il peut s'agir de collisions si c'est un mur ou bien d'une autorisation de prendre cet objet).
 Par rapport aux personnages : 
